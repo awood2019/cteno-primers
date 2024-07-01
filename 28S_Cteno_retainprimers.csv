@@ -1,0 +1,156 @@
+Name,Sequence Name,Type,Minimum,Maximum,Length,Sequence (with extension),Length (with extension),# Local Off-target Sites,%GC,Hairpin Tm,Self Dimer Tm,Tm
+Reverse,Saccocalyx_NF22-001_Ribo_Repeat,primer_bind,548,567,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Sympagella_nux_SH20001_Ribo_Repeat,primer_bind,540,559,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Mastigias_papua_Ribo_Repeat,primer_bind,479,498,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Characella_NF22-009_Ribo_Repeat,primer_bind,448,467,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Ianthellidae-maybeHexadella_Ribo_Repeat,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Clathrinidae_PNMNH50547_Ribo_Repeat,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+W/A,SRR5892572_Pukia-falcata_Ribo-Repeat,mismatch,419,419,1,,,,,,,
+Reverse,USNM1424275_Platyctenida_Ribo-Repeat,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1424276_Platyctenida_Ribo-Repeat,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1457363_Tjalfiella-maybe_Ribo-Repeat,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1467614_HawaiinRedPlaty_Ribo-Repeat,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1467615_Platyctenida_Ribo-Repeat (reversed),primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1490693_Tjalfiella-tristoma_Ribo-Repeat,primer_bind,416,435,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Halicreas_minimum_Ribosomal_Repeat_DLSI456,primer_bind,414,433,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Atolla_wyvillei_GAK02_Ribosomal_Repeat,primer_bind,413,432,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR5892572_Pukia-falcata_Ribo-Repeat,primer_bind,412,431,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Vallentinia_gabriellae_Ribo_Repeat,primer_bind,412,431,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+W/A,SRR5892576_Beroe_Antarctica_Ribo-Repeat-near,mismatch,409,409,1,,,,,,,
+W/A,SRR786490_Coeloplana-astericola-brown_Ribo-Repeat,mismatch,409,409,1,,,,,,,
+Reverse,Pandea_rubra_1284298_Ribosomal_Repeat_,primer_bind,408,427,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Cladonema_Ribo_Repeat,primer_bind,408,427,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+K/A,SRR5892575_Callianira-antarctica_Ribo-Repeat,mismatch,407,407,1,,,,,,,
+W/A,SRR1971491_Mnemiopsis-leidyi_Ribo-Repeat,mismatch,407,407,1,,,,,,,
+W/A,SRR5892570_Bolinopsis-ashleyi_Ribo-Repeat,mismatch,407,407,1,,,,,,,
+K/A,SRR6074507_Ocyropsis-crystallina_Ribo-Repeat,mismatch,407,407,1,,,,,,,
+W/A,SRR9162937_Lampea-RiboRepeat (reversed),mismatch,407,407,1,,,,,,,
+K/A,SRR3048699_Dryodora-glandiformis_Ribo-Repeat,mismatch,406,406,1,,,,,,,
+Reverse,FLMNH-IZ-000094-Ctenoplana_S128_Ribo-Repeat,primer_bind,406,425,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR3407164_Vallicula_Ribo-Repeat,primer_bind,406,425,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,_Japanese_Alatinid_Ribo_Repeat,primer_bind,406,425,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,12RU036_Pleurobrachia_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1423214_Hormiphora_californiensis_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1423220_Hormiphora_californiensis_S34_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Aulacoctena_sp_nov_Japan___NoAcc_,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_392E_Aulacoctena_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,UBC_1_Aulacoctena_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,UBC_2_Aulacoctena_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_507E_Aulacoctena_Ribo-Repeat (reversed),primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1463986_Pink-Tjalfiella-MBARI_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1580855_Lyrocteis-gehenna_Ribo-Repeat,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AGC22-007_Beroe-abyssicola-sp3round_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AGC22-008_Beroe-abyssicola-spA_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AGC22-009_Beroe-abyssicola-spC_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_847E_Beroe_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_544E_Beroe-cucumis_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AMB17_1_1_Beroe_Ribo-Repeat,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR5892576_Beroe_Antarctica_Ribo-Repeat-near,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1580835_Beroe-Red_Ribo-Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1423230_Haeckelia_Ribo-Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,FLMNH-IZ-000083-Coeloplana-wuennenbergi_S117_Ribo-Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR3407215_Coeloplana-cf-meteoris_Ribo-Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR786490_Coeloplana-astericola-brown_Ribo-Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Tamoya_ohboya_Ribo_Repeat,primer_bind,402,421,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,DL548-Liverlips_S158_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR5892575_Callianira-antarctica_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_833E_Mertensid_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_071E_Thalassocalyce-inconstans_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_824E_Lampocteis_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR1971491_Mnemiopsis-leidyi_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR5892570_Bolinopsis-ashleyi_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR3048955_Cestum-veneris_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR6074507_Ocyropsis-crystallina_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_518E_Orange-Cydippid_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_818E_Ctenoceros_Ribo-Repeat (reversed),primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_819E_Ctenoceros_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_817E_Ctenoceros_Ribo-Repeat (reversed),primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR9162937_Lampea-RiboRepeat (reversed),primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_816E_Cydippida_Ribo-Repeat (reversed),primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,DL526-Benthoctena_S167_Ribo-Repeat,primer_bind,400,419,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR3048699_Dryodora-glandiformis_Ribo-Repeat,primer_bind,399,418,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+W/A,SRR9162936_Vampyroctena-delmarvensis_Ribo-Repeat,mismatch,392,392,1,,,,,,,
+Reverse,SQ19_16S_080E_Euplokamis_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_814E_Cydippida-Euplokamis_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SQ19_16S_364E_Euplokamis_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR3048351_Euplokamis-dunlapae_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SRR9162936_Vampyroctena-delmarvensis_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,USNM1607363_Vampyroctenida_Ribo-Repeat,primer_bind,385,404,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+G/A,Mastigias_papua_Ribo_Repeat,mismatch,16,16,1,,,,,,,
+T/A,Pandea_rubra_1284298_Ribosomal_Repeat_,mismatch,15,15,1,,,,,,,
+G/A,Ianthellidae-maybeHexadella_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Characella_NF22-009_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Saccocalyx_NF22-001_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Sympagella_nux_SH20001_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+T/G,SRR1971491_Mnemiopsis-leidyi_Ribo-Repeat,mismatch,13,13,1,,,,,,,
+T/G,SRR5892570_Bolinopsis-ashleyi_Ribo-Repeat,mismatch,13,13,1,,,,,,,
+T/G,SRR3048955_Cestum-veneris_Ribo-Repeat,mismatch,13,13,1,,,,,,,
+T/G,SRR6074507_Ocyropsis-crystallina_Ribo-Repeat,mismatch,13,13,1,,,,,,,
+C/T,Characella_NF22-009_Ribo_Repeat,mismatch,3,3,1,,,,,,,
+Forward,12RU036_Pleurobrachia_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1423214_Hormiphora_californiensis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1423220_Hormiphora_californiensis_S34_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR5892572_Pukia-falcata_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AGC22-007_Beroe-abyssicola-sp3round_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AGC22-008_Beroe-abyssicola-spA_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AGC22-009_Beroe-abyssicola-spC_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_847E_Beroe_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_544E_Beroe-cucumis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AMB17_1_1_Beroe_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR5892576_Beroe_Antarctica_Ribo-Repeat-near,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1580835_Beroe-Red_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1423230_Haeckelia_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,DL548-Liverlips_S158_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR5892575_Callianira-antarctica_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_833E_Mertensid_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_071E_Thalassocalyce-inconstans_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_824E_Lampocteis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR1971491_Mnemiopsis-leidyi_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR5892570_Bolinopsis-ashleyi_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR3048955_Cestum-veneris_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR6074507_Ocyropsis-crystallina_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_518E_Orange-Cydippid_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_818E_Ctenoceros_Ribo-Repeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_819E_Ctenoceros_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_817E_Ctenoceros_Ribo-Repeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR9162937_Lampea-RiboRepeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_816E_Cydippida_Ribo-Repeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,DL526-Benthoctena_S167_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR3048699_Dryodora-glandiformis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Aulacoctena_sp_nov_Japan___NoAcc_,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_392E_Aulacoctena_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,UBC_1_Aulacoctena_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,UBC_2_Aulacoctena_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_507E_Aulacoctena_Ribo-Repeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1424275_Platyctenida_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1424276_Platyctenida_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1457363_Tjalfiella-maybe_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1467614_HawaiinRedPlaty_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1467615_Platyctenida_Ribo-Repeat (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1490693_Tjalfiella-tristoma_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,FLMNH-IZ-000083-Coeloplana-wuennenbergi_S117_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR3407215_Coeloplana-cf-meteoris_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR786490_Coeloplana-astericola-brown_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,FLMNH-IZ-000094-Ctenoplana_S128_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR3407164_Vallicula_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1463986_Pink-Tjalfiella-MBARI_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1580855_Lyrocteis-gehenna_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_080E_Euplokamis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_814E_Cydippida-Euplokamis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SQ19_16S_364E_Euplokamis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR3048351_Euplokamis-dunlapae_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SRR9162936_Vampyroctena-delmarvensis_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,USNM1607363_Vampyroctenida_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Clathrinidae_PNMNH50547_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Atolla_wyvillei_GAK02_Ribosomal_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Halicreas_minimum_Ribosomal_Repeat_DLSI456,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Vallentinia_gabriellae_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Pandea_rubra_1284298_Ribosomal_Repeat_,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Cladonema_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Mastigias_papua_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Ianthellidae-maybeHexadella_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,_Japanese_Alatinid_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Tamoya_ohboya_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Characella_NF22-009_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Saccocalyx_NF22-001_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Sympagella_nux_SH20001_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
